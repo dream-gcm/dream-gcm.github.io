@@ -17,7 +17,7 @@ Our prediction for the 2022 rainy season is anomalously wet over most of the con
 
 The featured image shows accumulated precipitation (mm) predicted from the trimester March-April-May over South America. Blue is wetter than usual, orange dry.
 
- [FUNCEME home page](http://www.funceme.br).
+ [FUNCEME home page](http://www.funceme.br)
 
  ![MAMseasonaforecast](/images/fcst-anom-2022-MAM.png)
 
