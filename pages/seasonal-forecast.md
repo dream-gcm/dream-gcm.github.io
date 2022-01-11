@@ -19,7 +19,9 @@ The featured image shows accumulated precipitation (mm) predicted from the trime
 
  [FUNCEME home page](http://www.funceme.br)
 
- ![MAMseasonaforecast](/images/fcst-anom-2022-MAM.png)
+ ![MAMseasonaforecast](/images/fcst-anom-2022-JFM.png)
+ 
+  ![MAMseasonaforecast](/images/fcst-anom-2022-FMA.png)
 
  ![MAMseasonaforecast](/images/fcst-anom-2022-MAM.png)
  
