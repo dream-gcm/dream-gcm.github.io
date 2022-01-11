@@ -15,7 +15,7 @@ We have made hindcast predictions for every year since 1982. Each year is initia
 
 Our prediction for the 2022 rainy season is anomalously wet over most of the continent, and particularly over the Northeast. This is consistent with the current La Nina and with most GCM forecasts.
 
-The featured image shows accumulated precipitation (mm) predicted from the trimester March-April-May over South America. Blue is wetter than usual, orange dry.
+The following plots shows accumulated precipitation over three months (mm) predicted from the trimester JFM, FMA and MAM over South America. Blue is anomalously wet, orange  dry.
 
  [FUNCEME home page](http://www.funceme.br)
 
