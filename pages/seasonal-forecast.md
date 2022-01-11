@@ -15,7 +15,9 @@ We have made hindcast predictions for every year since 1982. Each year is initia
 
 Our prediction for the 2022 rainy season is anomalously wet over most of the continent, and particularly over the Northeast. This is consistent with the current La Nina and with most GCM forecasts.
 
-The following plots show accumulated precipitation over three months (mm) predicted for running trimesters: JFM, FMA and MAM. Blue is anomalously wet, orange  dry.
+The following plots show our predictions for the accumulated precipitation over three months (mm). 
+The anomaly compared to the mean of all the hindcasts is plotted to indicate areas of unusually wet (blue) or dry (orange) conditions as predicted by DREAM. 
+Predictions are grouped into running trimesters: JFM, FMA and MAM.
 
  [FUNCEME home page](http://www.funceme.br)
 
