@@ -22,25 +22,16 @@
     url: "/science/mjo/"
   - title: "ENSO - ANR ARISE"
     url: "/science/arise/"
-  #- title: "Project 3"
-  #  url: "/science/project3/"
         
 - title: "DREAM-ers"
   url: "/dream-users/"
   side: left
-  #dropdown:
-  #- title: "Nick Hall"
-  #  url: "/dream-users/"
-  #- title: "Stephanie Leroux"
-  #  url: "/dream-users/"
-  #- title: "DREAM collaborators"
-  #  url: "/dream-users/group/"
-    
-- title: "Seasonal forcast"
-  url: "/seasonal-forcast/"
-  side: left
 
-    
+- title: "Seasonal forecast"
+  url: "/seasonal-forecast/"
+  side: left
+  dropdown:
+ 
 - title: "Contact us"
   url: "/contact/"
   side: right

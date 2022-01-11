@@ -2,18 +2,17 @@
 layout: page
 title: "Seasonal forecast"
 permalink: "/seasonal-forecast/"
-breadcrumb: true
 header:
     image_fullwidth: "canyonland_bis.jpg"
     title: ""
 ---
 
-## Title 1
+## Title 1 (Page under construction)
 
-bla
+normal text
 
 ## Title 2
-blabla
+normal text
 
  [link here to some external page](http://www.bla)).
 
