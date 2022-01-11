@@ -135,6 +135,12 @@
 
           
           
+        
+
+              
+
+          
+          
             
             
               <li class="divider"></li>
@@ -240,6 +246,21 @@
             
             
               <li><a  href="http://localhost:4000/dream-users/">DREAM-ers</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/seasonal-forcast/">Seasonal forcast</a></li>
               <li class="divider"></li>
 
             

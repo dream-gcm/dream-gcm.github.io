@@ -36,6 +36,10 @@
   #- title: "DREAM collaborators"
   #  url: "/dream-users/group/"
     
+- title: "Seasonal forcast"
+  url: "/seasonal-forcast/"
+  side: left
+
     
 - title: "Contact us"
   url: "/contact/"
