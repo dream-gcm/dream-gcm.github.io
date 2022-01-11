@@ -21,3 +21,5 @@ The featured image shows accumulated precipitation (mm) predicted from the trime
 
  ![MAMseasonaforecast](/images/fcst-anom-2022-MAM.png)
 
+ ![MAMseasonaforecast](/images/fcst-anom-2022-MAM.png)
+ 
