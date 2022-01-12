@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: pagepluswidgets
+layout: pagepluswidgets2
 title: DREAM 
 teaser: "Dynamical Research Empirical Atmospheric Model"
 header:
@@ -21,6 +21,11 @@ widget2:
   image: mod2.png
   text: 'Some of the science projects using DREAM [...]'
 widget3:
+  title: "Seasonal forecast"
+  url: /science/
+  image: fcst-anom-2022-MAM_square.png
+  text: 'Seasonal forecast of rainfall over Brazil [...]'
+widget4:
   title: "DREAM-ers"
   url: /dream-users/
   image: dreamers3.png
