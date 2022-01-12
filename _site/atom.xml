@@ -4,9 +4,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>DREAM</title>
-	<updated>2022-01-12T06:48:15+01:00</updated>
+	<updated>2022-01-12T06:55:26+01:00</updated>
 
-	<subtitle>DREAM: Dynamical Research Empirical Atmospheric Model is developped by Nick Hall, LEGOS, Toulouse, France, and Stephanie Leroux, Ocean Next, Grenoble, France.</subtitle>
+	<subtitle>DREAM: Dynamical Research Empirical Atmospheric Model is developped by Nick Hall, LEGOS, Toulouse, France, and Stephanie Leroux, IGE, Grenoble, France.</subtitle>
 
 	
 		

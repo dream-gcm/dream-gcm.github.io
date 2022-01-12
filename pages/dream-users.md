@@ -17,9 +17,9 @@ widget1:
  
 widget2:
   title: "Stephanie Leroux"
-  url: "https://ocean-next.fr/team/SL/"
+  url: "http://stephanieleroux.github.io/"
   image: team-SL.jpg
-  text: 'PhD, research engineer at Ocean Next, Grenoble,
+  text: 'PhD, research engineer at IGE, Grenoble,
   France. [...]'
   
 widget3:

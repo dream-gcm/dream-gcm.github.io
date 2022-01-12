@@ -9,9 +9,7 @@ url: 		'http://localhost:4000'
 baseurl: 	''
 urlimg: 	/images/
 
-#url: 'https://ocean-next.github.io/docs'
-#baseurl: ''
-#urlimg: 'https://ocean-next.github.io/docs/images/'
+
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:

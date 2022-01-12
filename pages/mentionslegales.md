@@ -18,7 +18,7 @@ Vous êtes sur le site internet personnel de Stephanie Leroux et Nick Hall dans 
 Ou par courrier postal, à l’adresse professionnelle de [Nick Hall](http://www.legos.obs-mip.fr/members/hall), Prof. au LEGOS, Université Paul Sabatier de Toulouse.
 
 - Auteurs et webmasters de ce site: 
-	* Stephanie Leroux, Research scientist à [Ocean Next](http://www.ocean-next.fr), Grenoble, France.
+	* [Stephanie Leroux](http://stephanieleroux.github.io/), Research scientist at IGE, Grenoble, France.
 	* [Nick Hall](http://www.legos.obs-mip.fr/members/hall), Professor au LEGOS, Université Paul Sabatier de Toulouse.
 
 - Gestion du contenu : [Jekyll](https://jekyllrb.com/) (basé sur le  template [Feeling Responsive](https://github.com/Phlow/feeling-responsive)).
