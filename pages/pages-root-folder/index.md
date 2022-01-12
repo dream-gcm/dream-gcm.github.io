@@ -22,7 +22,7 @@ widget2:
   text: 'Some of the science projects using DREAM [...]'
 widget3:
   title: "Seasonal forecast"
-  url: /science/
+  url: /seasonal-forecast/
   image: fcst-anom-2022-MAM_square.png
   text: 'Seasonal forecast of rainfall over Brazil [...]'
 widget4:
