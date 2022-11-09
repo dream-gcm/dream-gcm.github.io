@@ -13,6 +13,7 @@ header:
 
 --- 
 ### Technical docs:
+* Full DREAM User Manual: [[pdf] (v1).](https://www.legos.omp.eu/wp-content/uploads/2022/11/DREAM_manual_v1.pdf)
 * Initial [technical documents](https://drive.google.com/drive/folders/0B4GlUWNWme2gcjJyazdWUHFzVG8?usp=sharing) from University of Reading about IGCM.
 
 ---
