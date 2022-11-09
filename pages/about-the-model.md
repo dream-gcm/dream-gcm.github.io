@@ -10,6 +10,8 @@ header:
 ---
 
 
+## DREAM User Manual 
+If your looking for the full DREAM User Manual, you can get the [pdf here (v1).](https://www.legos.omp.eu/wp-content/uploads/2022/11/DREAM_manual_v1.pdf)
 
 ## Origins
 
