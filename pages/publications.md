@@ -13,7 +13,7 @@ header:
 
 --- 
 ### Technical docs:
-* __2023__ Full DREAM User Manual: Nick MJ Hall,  Stephanie Leroux. (2023). Dream user manual v8.4 (v8.4.0). Zenodo. [https://doi.org/10.5281/zenodo.8414525](https://doi.org/10.5281/zenodo.8414525)
+* __2023__ Full DREAM User Manual: Nick MJ Hall,  Stephanie Leroux. (2023). Dream user manual v8.4 (v8.4.0). Zenodo. DOI: 10.5281/zenodo.8414525 [Browse the latest version on line: https://dreamusermanual.readthedocs.io/en/latest/](https://dreamusermanual.readthedocs.io/en/latest/)
   
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8414525.svg)](https://doi.org/10.5281/zenodo.8414525)
 
