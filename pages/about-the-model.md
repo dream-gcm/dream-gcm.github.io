@@ -11,7 +11,7 @@ header:
 
 
 ## DREAM User Manual 
-If your looking for the full DREAM User Manual, you can get the [pdf here (2022v1).](https://www.legos.omp.eu/wp-content/uploads/2022/11/DREAM_manual_v1.pdf)
+If your looking for the latest full DREAM User Manual, go to  [https://dreamusermanual.readthedocs.io/en/latest/]( https://dreamusermanual.readthedocs.io/en/latest/)) and refer to it as : Nick MJ Hall,  Stephanie Leroux. (2023). *Dream user manual v8.4 (v8.4.0)*. Zenodo. DOI: 10.5281/zenodo.8414525.
 
 ## Origins
 
