@@ -13,10 +13,12 @@ header:
 
 --- 
 ### Technical docs:
-* __2023__ Full DREAM User Manual: Nick MJ Hall,  Stephanie Leroux. (2023). Dream user manual v8.4 (v8.4.0). Zenodo. DOI: 10.5281/zenodo.8414525 [Browse the latest version on line: https://dreamusermanual.readthedocs.io/en/latest/](https://dreamusermanual.readthedocs.io/en/latest/)
-  
+__2023:__
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8414525.svg)](https://doi.org/10.5281/zenodo.8414525)
 
+* Full DREAM User Manual: Nick MJ Hall,  Stephanie Leroux. (2023). Dream user manual v8.4 (v8.4.0). Zenodo. DOI: 10.5281/zenodo.8414525 [Browse the latest version on line: https://dreamusermanual.readthedocs.io/en/latest/](https://dreamusermanual.readthedocs.io/en/latest/)
+  
+__Misc.__:
 *  Historical  [technical documents](https://drive.google.com/drive/folders/0B4GlUWNWme2gcjJyazdWUHFzVG8?usp=sharing) from University of Reading about the IGCM based on Simmons and Hoskins.
 
 ---
