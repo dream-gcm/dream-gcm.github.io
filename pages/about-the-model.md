@@ -14,7 +14,7 @@ header:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8414525.svg)](https://doi.org/10.5281/zenodo.8414525)
 
-If your looking for the latest full DREAM User Manual, go to  [https://dreamusermanual.readthedocs.io/en/latest/]( https://dreamusermanual.readthedocs.io/en/latest/)) and refer to it as : Nick MJ Hall,  Stephanie Leroux. (2023). *Dream user manual v8.4 (v8.4.0)*. Zenodo. DOI: 10.5281/zenodo.8414525.
+If your looking for the latest full DREAM User Manual, go to  [https://dreamusermanual.readthedocs.io/en/latest/]( https://dreamusermanual.readthedocs.io/en/latest/)) and refer to it as : Nicholas M.J. Hall,  Stephanie Leroux. (2023). *Dream user manual v8.4 (v8.4.0)*. Zenodo. DOI: 10.5281/zenodo.8414525.
 
 
 ## Origins
