@@ -26,33 +26,21 @@ widget3:
   title: "Hong-Hanh Le"
   url: "http://www.legos.obs-mip.fr/members/hall"
   image: team-HHL.jpg
-  text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France.'  
+  text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France.'    
   
 widget4:
-  title: "Margot Beniche"
-  url: "http://www.legos.obs-mip.fr/members/hall"
-  image: team-MB2.jpg
-  text: 'PhD student at LEGOS/University Paul Sabatier, Toulouse, France.'  
-  
-widget5:
   title: "Francisco Vasconcelos Júnior"
   url: "http://www.funceme.br"
   image: team-FVJ2.jpg
   text: 'FUNCEME, Brazil.'
 
-widget6:
-  title: "Meiry Sayuri Sakamoto"
-  url: "http://www.funceme.br"
-  image: team-MSS2.jpg
-  text: 'FUNCEME, Brazil.'
-
-widget7:
+widget5:
   title: "Aubains Hounsou-Gbo"
   url: "http://www.funceme.br"
   image: team-AHG2.jpg
   text: 'FUNCEME, Brazil.'
 
-widget8:
+widget6:
   title: "Leticia Karyne da Silva Cardoso"
   url: "http://www.funceme.br"
   image: team-LSC2.jpg
