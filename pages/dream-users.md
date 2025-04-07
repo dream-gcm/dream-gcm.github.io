@@ -17,9 +17,9 @@ widget1:
  
 widget2:
   title: "Stephanie Leroux"
-  url: "http://stephanieleroux.github.io/"
+  url: "https://www.datlas.fr/team/SL/"
   image: team-SL.jpg
-  text: 'PhD, research engineer at IGE, Grenoble,
+  text: 'PhD, research scientist at Datlas, Grenoble,
   France. [...]'
   
 widget3:
